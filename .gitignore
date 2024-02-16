@@ -1,0 +1,4 @@
+pretrained/*.txt
+pretrained/*.h5
+pretrained/*.bin
+.venv/
